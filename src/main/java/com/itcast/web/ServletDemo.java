@@ -13,7 +13,7 @@ public class ServletDemo implements Servlet {
 
         System.out.println("helloservlet.master!!!");
         System.out.println("helloservlet.!!!hotfix");
-        System.out.println("helloservlet.!!!hotfix push");
+        System.out.println("helloservlet.!!!hotfix push-pull");
     }
 
     @Override
